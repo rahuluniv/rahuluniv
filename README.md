@@ -7,9 +7,9 @@ Software Developer
 
 
 - 🔭 I’m currently working on:
-- leading the technological overhaul at EduBest, where I am upgrading the system to Django and Next.js.
-- I'm driving the end-to-end development of a scalable platform at Full House Networks, focusing on improving system performance through innovative front-end and back-end solutions.
-- I led the development and deployment of the MMCI project, which focused on creating a comprehensive fire panel management and monitoring platform. This project significantly enhanced operational efficiency and system reliability through the integration of cutting-edge technologies like Auth0, .NET, PostgreSQL, and various IoT protocols.
+1. leading the technological overhaul at EduBest, where I am upgrading the system to Django and Next.js.
+2. I'm driving the end-to-end development of a scalable platform at Full House Networks, focusing on improving system performance through innovative front-end and back-end solutions.
+3. I led the development and deployment of the MMCI project, which focused on creating a comprehensive fire panel management and monitoring platform. This project significantly enhanced operational efficiency and system reliability through the integration of cutting-edge technologies like Auth0, .NET, PostgreSQL, and various IoT protocols.
   
 - 🌱 I’m currently learning advanced techniques in cloud services and machine learning, aiming to integrate these technologies into my current projects to further enhance system efficiency and predictive capabilities.
 - 👯 I’m looking to collaborate on projects involving cutting-edge web and mobile development technologies. I'm particularly interested in projects that emphasize security, scalability, and user-friendly design.
@@ -20,3 +20,11 @@ Software Developer
 - ⚡ Fun fact: Alongside my passion for software development, I am fluent in Punjabi, Hindi, and English, and I'm learning Japanese. I also love to explore new technologies and methodologies in the ever-evolving field of software development.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahuluniv)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahuluniv&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahuluniv&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rahuluniv" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahuluniv&layout=compact&langs_count=8&card_width=320" />
+</a>
