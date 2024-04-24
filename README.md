@@ -52,41 +52,41 @@ Software Developer
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/rahuluniv/rahuluniv/blob/main/python%403x.png" alt="python" width="120" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/csharp_dotnet%403x.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/csharp%403x.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/bootstrap%403x.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/bash%403x.png" alt="datascience" width="180" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/csharp_dotnet%403x.png" alt="java"  width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/csharp%403x.png" alt="AI" width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/bootstrap%403x.png" alt="bash" width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/bash%403x.png" alt="datascience" width="120" hight="50">
 <img src="https://github.com/rahuluniv/rahuluniv/blob/main/css3%403x.png" alt="python" width="120" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/go%403x.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/html%403x.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/java%403x.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/jquery%403x.png" alt="datascience" width="180" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/js%403x.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/laravel%403x.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/nodejs%403x.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/php%403x.png" alt="datascience" width="180" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/go%403x.png" alt="java"  width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/html%403x.png" alt="AI" width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/java%403x.png" alt="bash" width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/jquery%403x.png" alt="datascience" width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/js%403x.png" alt="java"  width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/laravel%403x.png" alt="AI" width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/nodejs%403x.png" alt="bash" width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/php%403x.png" alt="datascience" width="120" hight="50">
 <img src="https://github.com/rahuluniv/rahuluniv/blob/main/r%403x.png" alt="python" width="120" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/react%403x.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/vue%403x.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/react%403x.png" alt="java"  width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/vue%403x.png" alt="AI" width="120" hight="50">
 
 </br>
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/aws%403x.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/azure%403x.png" alt="visualstudio_code" width="240" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/aws%403x.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/azure%403x.png" alt="visualstudio_code" width="240" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/kubernetes%403x.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/npm%403x.png" alt="visualstudio_code" width="240" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/office_365%403x.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/vmware%403x.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/aws%403x.png" alt="google_cloud_platform" width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/azure%403x.png" alt="visualstudio_code" width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/aws%403x.png" alt="google_cloud_platform" width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/azure%403x.png" alt="visualstudio_code" width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/kubernetes%403x.png" alt="google_cloud_platform" width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/npm%403x.png" alt="visualstudio_code" width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/office_365%403x.png" alt="google_cloud_platform" width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/vmware%403x.png" alt="visualstudio_code" width="120" hight="50">
 </br>
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/android_studio_colour%403x.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/angular%403x.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/eclipse%403x.png" alt="playstation" width="150" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/docker%403x.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/google_cloud_platform%403x.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/eclipse%403x.png" alt="playstation" width="150" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/jetbrains_intellij%403x.png" alt="playstation" width="150" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/jetbrains_pycharm%403x.png" alt="edge" width="100" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/android_studio_colour%403x.png" alt="pc" width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/angular%403x.png" alt="edge" width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/eclipse%403x.png" alt="playstation" width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/docker%403x.png" alt="pc" width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/google_cloud_platform%403x.png" alt="edge" width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/eclipse%403x.png" alt="playstation" width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/jetbrains_intellij%403x.png" alt="playstation" width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/jetbrains_pycharm%403x.png" alt="edge" width="120" hight="50">
 </p>
 
 # Contact Me :
