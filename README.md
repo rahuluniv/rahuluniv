@@ -1,7 +1,4 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahul Bains
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
-</div>
 ===================================================================================================================================
 
 Software Developer
@@ -9,8 +6,12 @@ Software Developer
 </br>
 </br>
 </br>
-
-
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
+</br>
+</br>
+</br>
 - 🔭 I’m currently working on:
 1. leading the technological overhaul at EduBest, where I am upgrading the system to Django and Next.js.
 2. I'm driving the end-to-end development of a scalable platform at Full House Networks, focusing on improving system performance through innovative front-end and back-end solutions.
