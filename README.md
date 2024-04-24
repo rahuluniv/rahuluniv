@@ -98,7 +98,8 @@ If you want to reach out to me about anything, be it some doubt or just to hang 
 </br>
 </br>
 # Music 🎵🎶🎧
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31p3cuzwctgzmzzzvk6hzk7qvkni&count={9})
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Rakimaru&count={9})
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rahuluniv&show_icons=true&theme=cobalt&hide_rank=false&rank_icon=github" />
