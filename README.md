@@ -89,13 +89,13 @@ If you want to reach out to me about anything, be it some doubt or just to hang 
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/rahuluniv/rahuluniv/blob/main/gmail%403x.png" />
 </a>
 <a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/](https://www.linkedin.com/in/rahul-bains/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/rahuluniv/rahuluniv/blob/main/linkedin%403x.png" />
 </br>
 </br>
 </br>
 </a>
 <a href="https://www.instagram.com/childishrahul/">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
+  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/rahuluniv/rahuluniv/blob/main/instagram%403x.png" />
 </a>
 
 </br>
