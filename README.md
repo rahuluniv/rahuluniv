@@ -97,7 +97,11 @@ If you want to reach out to me about anything, be it some doubt or just to hang 
 </br>
 </br>
 </br>
-
+# Music 🎵🎶🎧
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Rakimaru)
+</br>
+</br>
+</br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rahuluniv&show_icons=true&theme=cobalt&hide_rank=false&rank_icon=github" />
 </a>
@@ -107,17 +111,11 @@ If you want to reach out to me about anything, be it some doubt or just to hang 
 </br>
 </br>
 </br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=rahuluniv)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rahuluniv&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </br>
 </br>
 </br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
 # Konichiwa 👋
 
