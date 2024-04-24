@@ -105,6 +105,8 @@ If you want to reach out to me about anything, be it some doubt or just to hang 
 </br>
 </br>
 </br>
+# Github Stats ![GithubCatGIF](https://github.com/rahuluniv/rahuluniv/assets/88022526/2e968813-b927-4a7f-b176-fb4f129e5831)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rahuluniv&show_icons=true&theme=cobalt&hide_rank=false&rank_icon=github" />
 </a>
