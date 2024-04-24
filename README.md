@@ -1,11 +1,11 @@
-Hi ![](https://github.com/rahuluniv/rahuluniv/blob/main/4k-anime-498-x-241-gif-kpnnk8elfpjxlmze.gif)My name is Rahul Bains
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahul Bains
 ===================================================================================================================================
 
 Software Developer
 ------------------
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/rahuluniv/rahuluniv/blob/main/4k-anime-498-x-241-gif-kpnnk8elfpjxlmze.gif">
 </div>
 
 - 🔭 I’m currently working on:
@@ -51,18 +51,42 @@ Software Developer
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/python@3x.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/python%403x.png" alt="python" width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/csharp_dotnet%403x.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/csharp%403x.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/bootstrap%403x.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/bash%403x.png" alt="datascience" width="180" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/css3%403x.png" alt="python" width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/go%403x.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/html%403x.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/java%403x.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/jquery%403x.png" alt="datascience" width="180" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/js%403x.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/laravel%403x.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/nodejs%403x.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/php%403x.png" alt="datascience" width="180" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/r%403x.png" alt="python" width="120" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/react%403x.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/vue%403x.png" alt="AI" width="90" hight="50">
+
 </br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/aws%403x.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/azure%403x.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/aws%403x.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/azure%403x.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/kubernetes%403x.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/npm%403x.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/office_365%403x.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/vmware%403x.png" alt="visualstudio_code" width="240" hight="50">
 </br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/android_studio_colour%403x.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/angular%403x.png" alt="edge" width="100" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/eclipse%403x.png" alt="playstation" width="150" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/docker%403x.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/google_cloud_platform%403x.png" alt="edge" width="100" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/eclipse%403x.png" alt="playstation" width="150" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/jetbrains_intellij%403x.png" alt="playstation" width="150" hight="50">
+<img src="https://github.com/rahuluniv/rahuluniv/blob/main/jetbrains_pycharm%403x.png" alt="edge" width="100" hight="50">
 </p>
 
 # Contact Me :
