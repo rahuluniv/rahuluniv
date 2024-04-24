@@ -19,12 +19,13 @@ Software Developer
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Alongside my passion for software development, I am fluent in Punjabi, Hindi, and English, and I'm learning Japanese. I also love to explore new technologies and methodologies in the ever-evolving field of software development.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahuluniv)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahuluniv&hide_progress=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahuluniv&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rahuluniv" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahuluniv&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=rahuluniv&layout=pie" />
 </a>
