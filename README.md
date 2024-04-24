@@ -108,14 +108,9 @@ If you want to reach out to me about anything, be it some doubt or just to hang 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahuluniv&layout=donut-vertical&langs_count=8&card_width=320" />
 </a>
-</br>
-</br>
-</br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=rahuluniv&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-</br>
-</br>
-</br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=rahuluniv)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 # Konichiwa 👋
 
