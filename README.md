@@ -65,7 +65,6 @@ Software Developer
 <img src="https://github.com/rahuluniv/rahuluniv/blob/main/laravel%403x.png" alt="AI" width="120" hight="50">
 <img src="https://github.com/rahuluniv/rahuluniv/blob/main/nodejs%403x.png" alt="bash" width="120" hight="50">
 <img src="https://github.com/rahuluniv/rahuluniv/blob/main/php%403x.png" alt="datascience" width="120" hight="50">
-<img src="https://github.com/rahuluniv/rahuluniv/blob/main/r%403x.png" alt="python" width="120" hight="50">
 <img src="https://github.com/rahuluniv/rahuluniv/blob/main/react%403x.png" alt="java"  width="120" hight="50">
 <img src="https://github.com/rahuluniv/rahuluniv/blob/main/vue%403x.png" alt="AI" width="120" hight="50">
 
