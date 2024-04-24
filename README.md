@@ -3,21 +3,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Developer
 ------------------
-</br>
-</br>
-</br>
+
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
-</br>
-</br>
-</br>
+
 - 🔭 I’m currently working on:
-</br>
+
 1. leading the technological overhaul at EduBest, where I am upgrading the system to Django and Next.js.
 2. I'm driving the end-to-end development of a scalable platform at Full House Networks, focusing on improving system performance through innovative front-end and back-end solutions.
 3. I led the development and deployment of the MMCI project, which focused on creating a comprehensive fire panel management and monitoring platform. This project significantly enhanced operational efficiency and system reliability through the integration of cutting-edge technologies like Auth0, .NET, PostgreSQL, and various IoT protocols.
-</br>
+
 - 🌱 I’m currently learning advanced techniques in cloud services and machine learning, aiming to integrate these technologies into my current projects to further enhance system efficiency and predictive capabilities.
 - 👯 I’m looking to collaborate on projects involving cutting-edge web and mobile development technologies. I'm particularly interested in projects that emphasize security, scalability, and user-friendly design.
 - 🤔 I’m looking for help with mastering advanced concepts in cloud infrastructure and distributed computing, as I aim to leverage these technologies in my software development projects.
