@@ -79,9 +79,22 @@ If you want to reach out to me about anything, be it some doubt or just to hang 
   <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/rahuluniv/rahuluniv/blob/main/instagram%403x.png" />
 </a>
 </br>
-# Music 🎵🎶🎧
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+# Music 🎵🎶🎧:
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31p3cuzwctgzmzzzvk6hzk7qvkni)
 </br>
+</br>
+</br>
+
 # Github Stats :
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rahuluniv&show_icons=true&theme=cobalt&hide_rank=false&rank_icon=github" />
@@ -89,6 +102,12 @@ If you want to reach out to me about anything, be it some doubt or just to hang 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahuluniv&layout=donut-vertical&langs_count=8&card_width=320" />
 </a>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rahuluniv)](https://github.com/ryo-ma/github-profile-trophy)
 
