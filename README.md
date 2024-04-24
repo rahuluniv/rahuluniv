@@ -64,11 +64,6 @@ Software Developer
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
 </p>
-</br>
-</br>
-</br>
-
-
 
 # Contact Me :
 
@@ -83,8 +78,10 @@ If you want to reach out to me about anything, be it some doubt or just to hang 
 <a href="https://www.instagram.com/childishrahul/">
   <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/rahuluniv/rahuluniv/blob/main/instagram%403x.png" />
 </a>
+</br>
 # Music 🎵🎶🎧
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31p3cuzwctgzmzzzvk6hzk7qvkni)
+</br>
 # Github Stats :
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rahuluniv&show_icons=true&theme=cobalt&hide_rank=false&rank_icon=github" />
